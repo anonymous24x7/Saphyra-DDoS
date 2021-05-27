@@ -12,19 +12,19 @@ A simple tool to DDoS any website.
 
 # Steps to Install :- 
 
-$ sudo su
+    $ sudo su
 
-$ git clone https://github.com/anonymous24x7/Saphyra-DDoS.git
+    $ git clone https://github.com/anonymous24x7/Saphyra-DDoS.git
 
-$ cd Saphyra-DDoS
+    $ cd Saphyra-DDoS
 
-$ chmod +x saphyra.py
+    $ chmod +x saphyra.py
 
-$ python saphyra.py
+    $ python saphyra.py
 
 
 
-# If it doesn't work
+# If it doesn't work :
 
 >Try $ sudo apt install python python2 python3
 
