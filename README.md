@@ -44,7 +44,7 @@ I REPEAT NEVER.
 
 
 
-# Buy me a Coffee 😀💵💵
+# Buy me a Coffee 💵
 https://imjo.in/QzaYw6
 
 🖤🖤🖤
