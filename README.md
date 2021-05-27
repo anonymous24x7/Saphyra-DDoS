@@ -26,7 +26,8 @@ A simple tool to DDoS any website.
 
 # If it doesn't work :
 
->Try $ sudo apt install python python2 python3
+>Try 
+     $ sudo apt install python python2 python3
 
      $sudo apt update
 
