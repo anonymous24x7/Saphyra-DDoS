@@ -4,9 +4,9 @@ A simple tool to DDoS any website.
 
 
 # Tested On :- 
-  >> Kali Linux
+  > Kali Linux
   
-  >>Parrot Sec OS 
+  > Parrot Sec OS 
 
 
 
@@ -34,5 +34,12 @@ A simple tool to DDoS any website.
 
 
 
-# Buy me a Coffee
+# Buy me a Coffee 😀💵💵
 https://imjo.in/QzaYw6
+
+
+
+# Disclaimer :
+
+Please use this code at your own risk and NEVER TRY IT ON A WEBSITE YOU DON'T HAVE PERMISSION FROM , I REPEAT NEVER. 
+
