@@ -26,7 +26,7 @@ A simple tool to DDoS any website.
 
 # If it doesn't work :
 
->Try 
+Try
 
      $ sudo apt install python python2 python3
 
@@ -36,12 +36,15 @@ A simple tool to DDoS any website.
 
 
 
+# Disclaimer :
+
+Please use this code at your own risk and NEVER TRY IT ON A WEBSITE YOU DON'T HAVE PERMISSION FROM 
+
+I REPEAT NEVER.
+
+
+
 # Buy me a Coffee 😀💵💵
 https://imjo.in/QzaYw6
 
-
-
-# Disclaimer :
-
-Please use this code at your own risk and NEVER TRY IT ON A WEBSITE YOU DON'T HAVE PERMISSION FROM , I REPEAT NEVER. 
-
+🖤🖤🖤
