@@ -1,5 +1,5 @@
 # Saphyra-DDoS
-A simple tool to DDoS any website.
+A complex python code to DDoS any website with a very easy usage.
 
 
 
@@ -33,6 +33,12 @@ Try
      $sudo apt update
 
      $sudo apt upgrade
+
+
+
+# Usage :
+
+    $ python saphyra.py https://example.com
 
 
 
