@@ -9,8 +9,11 @@ A simple tool to DDoS any website.
 
 $ sudo su 
 $ git clone https://github.com/anonymous24x7/Saphyra-DDoS.git
+
 $ cd Saphyra-DDoS
+
 $ chmod +x saphyra.py
+
 $ python saphyra.py
 
 
