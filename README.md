@@ -50,7 +50,11 @@ I REPEAT NEVER.
 
 
 
-# Buy me a Coffee 💵
-https://imjo.in/QzaYw6
+# Wish me LUCK💵
+https://www.buymeacoffee.com/anonymous24x7
+
+
+https://imjo.in/QzaYw6    --INR Payments ONLY
+
 
 🖤🖤🖤
